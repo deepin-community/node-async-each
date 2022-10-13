@@ -1,0 +1,20 @@
+node-async-each (1.0.3-1) unstable; urgency=medium
+
+  * Team upload
+  * Declare compliance with policy 4.5.0
+  * Bump debhelper compatibility level to 12
+  * Update VCS fields to salsa
+  * Use pkg-js-tools auto install
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * New upstream version 1.0.3
+
+ -- Xavier Guimard <yadd@debian.org>  Wed, 19 Feb 2020 16:03:32 +0100
+
+node-async-each (1.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #853058)
+
+ -- Nikhil Gawande <nikhilgawande21@gmail.com>  Sat, 04 Feb 2017 07:23:08 +0000
